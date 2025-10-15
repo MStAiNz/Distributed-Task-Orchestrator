@@ -1,0 +1,1 @@
+A Python-powered backend system that lets users define, schedule, and run tasks (ETL jobs, scripts, scrapers) with dependencies — kind of like a lightweight version of Apache Airflow or Celery Beat.
